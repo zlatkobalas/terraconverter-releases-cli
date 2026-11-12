@@ -5,7 +5,7 @@ Ovaj repozitorij **ne sadrži izvorni kod** — samo gotove izgradnje, objavljen
 
 Tražiš desktop GUI ili Android aplikaciju? Vidi
 [terraconverter-releases-desktop](https://github.com/zlatkobalas/terraconverter-releases-desktop)
-ili [terraconverter-releases](https://github.com/zlatkobalas/terraconverter-releases).
+ili [terraconverter-releases-android](https://github.com/zlatkobalas/terraconverter-releases-android).
 
 ## Preuzimanja
 
