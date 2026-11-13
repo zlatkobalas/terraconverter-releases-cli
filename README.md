@@ -9,7 +9,7 @@ or [terraconverter-releases-android](https://github.com/zlatkobalas/terraconvert
 
 ## Downloads
 
-- **Windows CLI** (`TerraConverter_CLI_vX.Y.Z_windows.zip`) — standalone command-line tool, no installation, no admin rights. Extract anywhere and run `TerraConverter_CLI.exe` (or add the extracted folder to PATH). See the included `README.md`/`USAGE.md` for setup and the full command reference.
+- **Windows CLI** (`terraconverter-vX.Y.Z-cli-windows.zip`) — standalone command-line tool, no installation, no admin rights. Extract anywhere and run `TerraConverter_CLI.exe` (or add the extracted folder to PATH). See the included `README.md`/`USAGE.md` for setup and the full command reference.
 
 ## Third-party components
 
