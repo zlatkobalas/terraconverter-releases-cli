@@ -9,7 +9,7 @@ ili [terraconverter-releases-android](https://github.com/zlatkobalas/terraconver
 
 ## Preuzimanja
 
-- **Windows CLI** (`TerraConverter_CLI_vX.Y.Z_windows.zip`) — samostalan naredbeno-redni alat, bez instalacije, bez admin prava. Raspakiraj bilo gdje i pokreni `TerraConverter_CLI.exe` (ili dodaj raspakiranu mapu u PATH). Vidi priloženi `README.md`/`USAGE.md` za postavljanje i potpuni referentni pregled naredbi.
+- **Windows CLI** (`terraconverter-vX.Y.Z-cli-windows.zip`) — samostalan naredbeno-redni alat, bez instalacije, bez admin prava. Raspakiraj bilo gdje i pokreni `TerraConverter_CLI.exe` (ili dodaj raspakiranu mapu u PATH). Vidi priloženi `README.md`/`USAGE.md` za postavljanje i potpuni referentni pregled naredbi.
 
 ## Komponente trećih strana
 
